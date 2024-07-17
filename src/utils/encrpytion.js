@@ -5,8 +5,10 @@ import { ymd } from "./metaData.js";
 // window.Buffer = window.Buffer || require("buffer").Buffer;
 // const date = new Date();
 
-const pid = process.env.PID
-const hmacKey = process.env.HMACKEY
+
+const pid = "ALTA"; 
+const hmacKey = "Asd8nkM3dn83yr2Uebh4fbje0hF8efn5ewfn2Cdd7UnKh7bk0"; 
+
 
 
 
