@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const MONGODB_URI = 'mongodb+srv://shanujyadav:9528492010@altaneohrms.jy1nw6a.mongodb.net';
+const MONGODB_URI = 'mongodb+srv://shanujyadav:9528492010@altaneohrms.jy1nw6a.mongodb.net/?retryWrites=true&w=majority&appName=altaneoHrms';
 
 const connectDB = async () => {
     try {
